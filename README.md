@@ -21,7 +21,8 @@ This analysis gives you a detailed understanding into:
 ## 📂 **Dataset**
 This dataset has been fetched from <a href="https://www.kaggle.com/datasets/mahoora00135/flights/data">Kaggle</a> which contains around 336k rows and 21 columns.
 The dataset was cleaned by handling data inconsistencies.
-Column were standardized for consistency.Feature engineering was performed to create meaningful variables for analysis.
+Columns were standardized for consistency.
+Feature engineering was performed to create meaningful variables for analysis.
 
 ---
 
