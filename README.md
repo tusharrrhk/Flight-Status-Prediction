@@ -19,7 +19,7 @@ This analysis gives you a detailed understanding into:
 ---
 
 ## 📂 **Dataset**
-This dataset has been fetched from <a href="https://www.kaggle.com/datasets/mahoora00135/flights/data">Kaggle</a> which contains around 336k rows and 21 columns.
+This dataset has been fetched from <a href="https://www.kaggle.com/datasets/mahoora00135/flights/data">Kaggle</a> which contains around 336k rows and 21 columns. The dataset contains information on flight schedule, delays, carrier,  flight origin and destination. 
 The dataset was cleaned by handling data inconsistencies.
 Columns were standardized for consistency.
 Feature engineering was performed to create meaningful variables for analysis.
