@@ -1,6 +1,6 @@
 # Flight-Status Analysis
 
-  Welcome to the repository of **Flight Status Analysis**! This project aims to uncover key patterns and insights from flight data to enhance operational efficiency and improve passenger experience.
+  This project aims to uncover key patterns and insights from flight data to enhance operational efficiency and improve passenger experience.
   <p align="center">
   <img src="Logo.webp" alt="Company Logo" width="350">
 
