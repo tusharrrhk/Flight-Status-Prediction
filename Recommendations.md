@@ -1,4 +1,4 @@
-# Recommendations Based on Flight Status Insights
+# Recommendations
 
 <br>
 
