@@ -10,11 +10,11 @@
 ## 📊 **Project Overview**
 
 This analysis gives you a detailed understanding into:
-- Analyzed flight data to identify trends and patterns.
-- Explored seasonal, daily, and hourly variations in flight operations.
-- Evaluated performance based on departure and arrival status.
-- Provided actionable recommendations to optimize operations.
-- Created visualizations to aid data-driven decision-making.
+- Analyzing flight data to identify trends and patterns.
+- Exploring seasonal, daily, and hourly variations in flight operations.
+- Evaluating performance based on departure and arrival status.
+- Provide actionable recommendations to optimize operations.
+- Create visualizations to aid data-driven decision-making.
 
 ---
 
