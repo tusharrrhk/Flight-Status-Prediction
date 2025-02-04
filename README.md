@@ -1,6 +1,6 @@
-# Flight-Status Analysis
+# Flight Status Prediction
 
-  This project aims to uncover key patterns and insights from flight data to enhance operational efficiency and improve passenger experience.
+  This project aims to uncover key patterns and insights from flight data to enhance operational efficiency and improve passenger experience. It also aims in developing Machine Learning models on a multi-class classificiation dataset to make a prediction.
   <p align="center">
   <img src="Logo.webp" alt="Company Logo" width="350">
 
@@ -15,6 +15,8 @@ This analysis gives you a detailed understanding into:
 - Evaluating performance based on departure and arrival status.
 - Provide actionable recommendations to optimize operations.
 - Create visualizations to aid data-driven decision-making.
+- Developing ML models like Random Forest and XGBoost to predict arrival status.
+- Improve the performance by using K-Fold Cross Validation and Hyperparameter Tuning.
 
 ---
 
@@ -29,6 +31,8 @@ This dataset has been fetched from <a href="https://www.kaggle.com/datasets/maho
 - Imbalance handling and feature selection.
 - Visual representation of key findings.
 - Actionable insights and strategic recommendations.
+- Handle imbalance dataset by using upsampling technique SMOTE.
+- Enhance the metric by using different parameters.
 
 ---
 
@@ -53,3 +57,14 @@ For a detailed list of insights, refer to the [Insights document](./Insights.md)
 - Leverage data analytics for proactive decision-making.
 
 For a detailed list of recommendations, refer to the [Recommendations document](./Recommendations.md).
+
+---
+
+## 🎯 **Results**
+
+- Random Forest : 58%
+    - With Hyperparameter Tuning : 42%
+
+- XGBoost : 65%
+    - With Hyperparameter Tuning : 68%
+
